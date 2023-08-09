@@ -15,6 +15,12 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Robert Frost",
+    poem: "Some say the world will end in fire. \n Some say in ice. \n From what i've tasted of desire I hold with those who favor fire. \n But if it had to perish twice, \n I think I know enough of hate \n To say that for destruction ice \n is also great \n And would suffice",
+    image: "fireice.jpg",
+  },
+  {
+
     author: "John",
     poem: "Roses are blue \n and so am I",
     image: "bluerose.jpg",
